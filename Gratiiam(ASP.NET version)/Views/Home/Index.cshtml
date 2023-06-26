@@ -1,0 +1,86 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+}
+@using Gratiiam_ASP.NET_version_.Models.Gratiiam_ASP.NET_version_.Models;
+
+@model Gratiiam_ASP.NET_version_.Models.homePageClasses;
+
+
+<div class="container-xl">
+	<div class="row">
+		<div class="col-md-12">
+			<h2><b>Categories</b></h2>
+			<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="0">
+
+				<!-- Wrapper for carousel items -->
+				<div class="carousel-inner">
+					<div class="item carousel-item active">
+						<div class="row">
+							@foreach (var category in Model.Categories)
+							{
+								<div class="col-sm-3">
+									<div class="thumb-wrapper" style="background : @category.color;">
+										<span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+										<div class="thumb-content">
+											<h4 style="color:white;">@category.name</h4>
+											<a href="#" class="btn btn-primary disabled">View more</a>
+										</div>
+									</div>
+								</div>
+							}
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<!-- this is for the fearured items-->
+<div class="container-xl">
+	<div class="row">
+		<div class="col-md-12">
+			<h2>Featured <b>Products</b></h2>
+			<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="0">
+				
+				<!-- Wrapper for carousel items -->
+				<div class="carousel-inner">
+					<div class="item carousel-item active">
+						<div class="row">
+							@foreach (var product in Model.FeaturedProducts)
+        {
+							<div class="col-sm-3">
+								<div class="thumb-wrapper">
+									<span class="wish-icon"><i class="fa fa-heart-o"></i></span>
+									<div class="img-box">
+											<img src="@product.image" class="img-fluid" alt="Nikon">
+									</div>
+									<div class="thumb-content">
+											<h4>@product.name</h4>
+										<div class="star-rating">
+											<ul class="list-inline">
+												<li class="list-inline-item"><i class="fa fa-star"></i></li>
+												<li class="list-inline-item"><i class="fa fa-star"></i></li>
+												<li class="list-inline-item"><i class="fa fa-star"></i></li>
+												<li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+												<li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+											</ul>
+										</div>
+											<p class="item-price"><b>R @product.price</b></p>
+											<a href="#" class="btn btn-primary disabled">Add to Cart</a>
+									</div>
+								</div>
+							</div>
+		}
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
