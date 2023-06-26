@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Gratiiam(ASP.NET version).props" />
+</Project>

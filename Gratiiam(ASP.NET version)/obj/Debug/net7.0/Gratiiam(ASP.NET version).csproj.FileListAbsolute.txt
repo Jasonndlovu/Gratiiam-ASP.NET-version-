@@ -1,0 +1,33 @@
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\bin\Debug\net7.0\appsettings.json
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\bin\Debug\net7.0\Gratiiam(ASP.NET version).staticwebassets.runtime.json
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\bin\Debug\net7.0\Gratiiam(ASP.NET version).exe
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\bin\Debug\net7.0\Gratiiam(ASP.NET version).deps.json
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\bin\Debug\net7.0\Gratiiam(ASP.NET version).runtimeconfig.json
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\bin\Debug\net7.0\Gratiiam(ASP.NET version).dll
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\bin\Debug\net7.0\Gratiiam(ASP.NET version).pdb
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).AssemblyInfo.cs
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).RazorAssemblyInfo.cache
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).RazorAssemblyInfo.cs
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\staticwebassets\msbuild.Gratiiam(ASP.NET version).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\staticwebassets\msbuild.build.Gratiiam(ASP.NET version).props
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Gratiiam(ASP.NET version).props
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Gratiiam(ASP.NET version).props
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\scopedcss\bundle\Gratiiam(ASP.NET version).styles.css
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\scopedcss\projectbundle\Gratiiam(ASP.NET version).bundle.scp.css
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).csproj.CopyComplete
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).dll
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\refint\Gratiiam(ASP.NET version).dll
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).pdb
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\Gratiiam(ASP.NET version).genruntimeconfig.cache
+C:\Users\jason\source\repos\Gratiiam(ASP.NET version)\Gratiiam(ASP.NET version)\obj\Debug\net7.0\ref\Gratiiam(ASP.NET version).dll

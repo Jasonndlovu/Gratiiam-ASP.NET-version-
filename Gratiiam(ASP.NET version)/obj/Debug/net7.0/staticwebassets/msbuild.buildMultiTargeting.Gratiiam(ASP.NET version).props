@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gratiiam(ASP.NET version).props" />
+</Project>

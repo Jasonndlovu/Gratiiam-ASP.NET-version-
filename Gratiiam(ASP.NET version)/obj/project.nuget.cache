@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xLONdFnEUM3cSYdCZhjsLpi/dPsugRa5n+7wtW2eRmafpiRDa5j8i+hCTCtyJh3DpRP5zVRx6qKuuyPGTO6l8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jason\\source\\repos\\Gratiiam(ASP.NET version)\\Gratiiam(ASP.NET version)\\Gratiiam(ASP.NET version).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jason\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
